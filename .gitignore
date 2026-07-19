@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Gradio cache
+.gradio/
+
+# Large datasets
+data/
+data_raw/
+test/
+*.zip
+
+# Temporary / generated files
+*.log
+.DS_Store
+Thumbs.db
